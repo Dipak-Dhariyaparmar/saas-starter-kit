@@ -1,4 +1,4 @@
-// this is useapikey related components
+// this is useapikey related componens
 
 import fetcher from '@/lib/fetcher';
 import { ApiKey } from '@prisma/client';
