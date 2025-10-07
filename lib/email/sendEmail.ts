@@ -1,4 +1,4 @@
-// This is send email component related
+// This is send email component relateds
 
 import nodemailer from 'nodemailer';
 
