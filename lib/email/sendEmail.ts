@@ -1,3 +1,5 @@
+// This is send email component related
+
 import nodemailer from 'nodemailer';
 
 import env from '../env';
